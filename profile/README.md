@@ -3,10 +3,10 @@ We are a group of students from Shanghai who have been studying computer science
 
 The languages I have learned include C/C++, Python, C #, Lua, Java, and more.
 
-# 🧬My announcement
+# 🧬We announcement
 I really like GitHub, it is a community with a good environment. Thank you very much for your support!
 
-# 🛠I am using Tools&Systems
+# 🛠We are using Tools&Systems
 ![image](https://img.shields.io/badge/Windows-C/C++-blue)
 ![image](https://img.shields.io/badge/Linux-C/C++-blue)
 ![image](https://img.shields.io/badge/Linux-ssh)
