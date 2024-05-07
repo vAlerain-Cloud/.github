@@ -4,9 +4,11 @@ We are a group of students from Shanghai who have been studying computer science
 The languages I have learned include C/C++, Python, C #, Lua, Java, and more.
 
 # 🧬We announcement
-I really like GitHub, it is a community with a good environment. Thank you very much for your support!
+We really like GitHub, it is a community with a good environment. Thank you very much for your support!
 
 # 🛠We are using Tools&Systems
+[![github](https://img.shields.io/badge/dynamic/json?label=GitHub&suffix=%20followers&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DvAlerainTech&labelColor=282c34&color=009f8f&logo=github&longCache=true)](https://github.com/vAlerainTech)
+[![bilibili](https://img.shields.io/badge/dynamic/json?color=00a1d6&labelColor=282c34&label=BiliBili&suffix=%20followers&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dbilibili%26queryKey%3D3546558465313713&logo=Bilibili&logoColor=ffffff&longCache=true)](https://space.bilibili.com/3546558465313713)
 ![image](https://img.shields.io/badge/Windows-C/C++-blue)
 ![image](https://img.shields.io/badge/Linux-C/C++-blue)
 ![image](https://img.shields.io/badge/Linux-ssh)
@@ -26,16 +28,16 @@ I really like GitHub, it is a community with a good environment. Thank you very 
 ![image](https://img.shields.io/badge/Linux-grub_customizer-blue)
 ![image](https://img.shields.io/badge/Linux-kernelcare-blue)
 
+
 # 📈Github warehouse
-<a href="https://github.com/WhiteFoxLinux/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WhiteFoxLinux&hide=python,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+<a href="https://github.com/vAlerainTech/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vAlerainTech&hide=python,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
-<a href="https://github.com/WhiteFoxLinux/WhiteFoxLinux">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=WhiteFoxLinux&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+<a href="https://github.com/vAlerainTech/vAlerainTech">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vAlerainTech&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
 </a>
 
-
-
+[![vAlerainTech urrent streak](https://streak-stats.demolab.com/?user=vAlerainTech&count_private=true&theme=blue-green&title_color=ffffff)](#)
 
 # 🔍We contact information
 
@@ -43,4 +45,8 @@ You can contact We through QQ, Twitter, or email
 
 E-mail:3506561279@qq.com
 
-We Twitter：@ObsStikh56263
+We X:@GitvAlerain
+
+<p align="center">
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
